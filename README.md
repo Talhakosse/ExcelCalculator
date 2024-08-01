@@ -26,7 +26,7 @@ Bu uygulama, belirtilen iki klasör arasındaki Excel dosyalarını birleştiren
 3.Proje dosyalarını bilgisayarınıza indirin ve bir dizine çıkarın.
 
 ## Kullanım
-1. Uygulamayı başlatmak için merge_excel.py dosyasını çalıştırın:
+1. Uygulamayı başlatmak için merge_excel.py dosyasını çalıştırın:   
 python merge_excel.py
 2. Uygulama arayüzü açıldığında, aşağıdaki adımları izleyin:
 Excel Klasörünü Seçin: Birleştirmek istediğiniz Excel dosyalarının bulunduğu klasörü seçin.
